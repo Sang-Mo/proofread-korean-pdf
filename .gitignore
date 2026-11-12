@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+*_proofread_temp/
+*.tmp_annot.pdf
+*.orig.pdf
+.venv/
+.env
